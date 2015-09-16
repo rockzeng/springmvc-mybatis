@@ -1,0 +1,10 @@
+.DS_Store
+.bundle
+*.log
+tmp/
+*.swp
+target/
+.idea
+*.iml
+*.ipr
+*.iws
